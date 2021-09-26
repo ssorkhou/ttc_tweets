@@ -3,6 +3,7 @@ pandas
 matplotlib
 seaborn
 nltk
+vaderSentiment
 scipy
 statsmodels
 wordcloud
