@@ -4,3 +4,6 @@ This folder contains Part 1 of my project in which I perform sentiment analysis 
 This folder consists of the following files:
 
 * Sentiment Analysis of #TTC Tweets - Part 1 of 3.ipynb
+  * The Jupyter notebook in which I go through the first part of this project.
+* tweets_xxxx.csv
+  * There are eight files in this format. The xxxx is a year from 2014 to 2021 inclusive and each file contains the scraped Twitter data of tweets from that year.
