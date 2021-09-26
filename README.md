@@ -5,6 +5,6 @@ Furthermore, I examine data pertaining to scheduled subway closures as well as b
 
 The project is split into three parts. In the first I investigate the Twitter data on its own, in the second part I introduce the subway closure data, and in the third I also investigate data relating to transit delays. Thus the project consists of the three Jupyter notebooks in this repository. This repository also contains the following folders:
 
-* tweets - contains the scraped Twitter data
 * closures - contains the with subway closure data
 * delays - contains the bus, streetcar, adn subway delay data
+* tweets - contains the scraped Twitter data
