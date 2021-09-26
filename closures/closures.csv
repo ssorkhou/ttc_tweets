@@ -1,0 +1,794 @@
+﻿date,line,type
+11-Jan-14,1,Weekend
+12-Jan-14,1,Weekend
+25-Jan-14,1,Weekend
+26-Jan-14,1,Weekend
+08-Feb-14,1,Weekend
+09-Feb-14,1,Weekend
+22-Feb-14,1,Weekend
+23-Feb-14,1,Weekend
+08-Mar-14,1,Weekend
+09-Mar-14,1,Weekend
+15-Mar-14,1,One day
+22-Mar-14,1,Weekend
+23-Mar-14,1,Weekend
+05-Apr-14,1,Weekend
+06-Apr-14,1,Weekend
+12-Apr-14,1,Late opening
+10-May-14,2,Weekend
+11-May-14,2,Weekend
+24-May-14,2,Weekend
+25-May-14,2,Weekend
+31-May-14,1,One day
+07-Jun-14,1,Weekend
+08-Jun-14,1,Weekend
+14-Jun-14,2,Weekend
+15-Jun-14,2,Weekend
+22-Jun-14,2,Late opening
+28-Jun-14,1,Weekend
+29-Jun-14,1,Weekend
+06-Jul-14,2,Late opening
+13-Jul-14,2,Late opening
+19-Jul-14,2,Weekend
+20-Jul-14,2,Weekend
+16-Aug-14,1,Weekend
+17-Aug-14,1,Weekend
+23-Aug-14,1,Weekend
+24-Aug-14,1,Weekend
+06-Sep-14,1,Weekend
+07-Sep-14,1,Weekend
+13-Sep-14,1,Weekend
+14-Sep-14,1,Weekend
+20-Sep-14,1,Weekend
+21-Sep-14,1,Weekend
+21-Sep-14,3,Late opening
+01-Oct-14,2,Early closure
+18-Oct-14,1,Weekend
+19-Oct-14,1,Weekend
+01-Nov-14,1,Weekend
+02-Nov-14,1,Weekend
+08-Nov-14,1,Weekend
+09-Nov-14,1,Weekend
+15-Nov-14,2,One day
+06-Dec-14,2,Weekend
+07-Dec-14,2,Weekend
+10-Jan-15,1,Weekend
+11-Jan-15,1,Weekend
+31-Jan-15,1,Weekend
+01-Feb-15,1,Weekend
+14-Feb-15,1,Weekend
+15-Feb-15,1,Weekend
+16-Feb-15,1,Weekend
+28-Feb-15,1,Weekend
+01-Mar-15,1,Weekend
+07-Mar-15,1,One day
+14-Mar-15,1,Weekend
+15-Mar-15,1,Weekend
+21-Mar-15,1,Weekend
+22-Mar-15,1,Weekend
+28-Mar-15,1,Weekend
+29-Mar-15,1,Weekend
+11-Apr-15,1,Weekend
+12-Apr-15,1,Weekend
+25-Apr-15,3,Weekend
+26-Apr-15,3,Weekend
+09-May-15,1,Weekend
+10-May-15,1,Weekend
+17-May-15,2,One day
+23-May-15,1,Weekend
+24-May-15,1,Weekend
+30-May-15,1,Weekend
+31-May-15,1,Weekend
+06-Jun-15,1,Weekend
+07-Jun-15,1,Weekend
+13-Jun-15,2,One day
+20-Jun-15,2,Early closure
+04-Jul-15,3,Weekend
+05-Jul-15,3,Weekend
+16-Aug-15,1,Late opening
+22-Aug-15,2,Weekend
+23-Aug-15,2,Weekend
+29-Aug-15,1,Weekend
+30-Aug-15,1,Weekend
+12-Sep-15,3,Weekend
+13-Sep-15,3,Weekend
+19-Sep-15,1,Weekend
+20-Sep-15,1,Weekend
+26-Sep-15,3,Weekend
+27-Sep-15,3,Weekend
+10-Oct-15,2,Weekend
+11-Oct-15,2,Weekend
+17-Oct-15,1,Weekend
+18-Oct-15,1,Weekend
+24-Oct-15,2,Weekend
+25-Oct-15,2,Weekend
+31-Oct-15,1,Weekend
+01-Nov-15,1,Weekend
+07-Nov-15,2,Weekend
+08-Nov-15,2,Weekend
+14-Nov-15,1,One day
+21-Nov-15,2,Weekend
+22-Nov-15,2,Weekend
+05-Dec-15,2,Weekend
+06-Dec-15,2,Weekend
+05-Mar-16,1,Weekend
+06-Mar-16,1,Weekend
+19-Mar-16,1,Weekend
+20-Mar-16,1,Weekend
+02-Apr-16,2,One day
+09-Apr-16,2,Weekend
+10-Apr-16,2,Weekend
+16-Apr-16,1,Weekend
+17-Apr-16,1,Weekend
+23-Apr-16,2,Weekend
+24-Apr-16,2,Weekend
+30-Apr-16,2,Early closure
+07-May-16,2,Weekend
+08-May-16,2,Weekend
+28-May-16,1,Weekend
+29-May-16,1,Weekend
+04-Jun-16,2,One day
+12-Jun-16,2,One day
+18-Jun-16,1,Weekend
+19-Jun-16,1,Weekend
+25-Jun-16,3,Weekend
+26-Jun-16,3,Weekend
+16-Jul-16,4,Weekend
+17-Jul-16,4,Weekend
+24-Jul-16,2,One day
+06-Aug-16,1,One day
+13-Aug-16,2,Weekend
+14-Aug-16,2,Weekend
+27-Aug-16,1,Weekend
+28-Aug-16,1,Weekend
+03-Sep-16,2,Weekend
+04-Sep-16,2,Weekend
+05-Sep-16,2,Weekend
+10-Sep-16,1,Weekend
+11-Sep-16,1,Weekend
+17-Sep-16,1,Weekend
+18-Sep-16,1,Weekend
+24-Sep-16,1,Weekend
+25-Sep-16,1,Weekend
+15-Oct-16,1,Weekend
+16-Oct-16,1,Weekend
+22-Oct-16,1,Weekend
+23-Oct-16,1,Weekend
+29-Oct-16,1,Weekend
+30-Oct-16,1,Weekend
+05-Nov-16,2,Weekend
+06-Nov-16,2,Weekend
+12-Nov-16,1,Weekend
+13-Nov-16,1,Weekend
+26-Nov-16,3,One day
+03-Dec-16,1,Weekend
+03-Dec-16,2,Weekend
+04-Dec-16,1,Weekend
+04-Dec-16,2,Weekend
+21-Jan-17,1,Weekend
+22-Jan-17,1,Weekend
+25-Feb-17,1,Weekend
+26-Feb-17,1,Weekend
+04-Mar-17,4,Weekend
+05-Mar-17,4,Weekend
+18-Mar-17,2,Weekend
+19-Mar-17,2,Weekend
+01-Apr-17,1,Weekend
+02-Apr-17,1,Weekend
+08-Apr-17,1,Weekend
+09-Apr-17,1,Weekend
+22-Apr-17,3,Weekend
+23-Apr-17,3,Weekend
+29-Apr-17,1,Weekend
+30-Apr-17,1,Weekend
+06-May-17,3,Weekend
+07-May-17,3,Weekend
+13-May-17,2,One day
+20-May-17,1,Weekend
+21-May-17,1,Weekend
+27-May-17,2,Weekend
+28-May-17,2,Weekend
+03-Jun-17,1,Weekend
+04-Jun-17,1,Weekend
+10-Jun-17,2,Weekend
+11-Jun-17,2,Weekend
+17-Jun-17,1,Weekend
+18-Jun-17,1,Weekend
+24-Jun-17,3,Weekend
+25-Jun-17,3,Weekend
+08-Jul-17,1,Weekend
+09-Jul-17,1,Weekend
+15-Jul-17,2,Weekend
+16-Jul-17,2,Weekend
+22-Jul-17,2,Weekend
+23-Jul-17,2,Weekend
+29-Jul-17,1,Weekend
+30-Jul-17,1,Weekend
+12-Aug-17,1,Weekend
+13-Aug-17,1,Weekend
+19-Aug-17,2,Weekend
+20-Aug-17,2,Weekend
+26-Aug-17,3,Weekend
+27-Aug-17,3,Weekend
+09-Sep-17,1,Weekend
+10-Sep-17,1,Weekend
+16-Sep-17,1,Weekend
+17-Sep-17,1,Weekend
+23-Sep-17,2,Weekend
+24-Sep-17,2,Weekend
+21-Oct-17,1,Weekend
+22-Oct-17,1,Weekend
+27-Oct-17,1,Weekend
+28-Oct-17,1,Weekend
+04-Nov-17,1,One day
+11-Nov-17,1,Weekend
+12-Nov-17,1,Weekend
+25-Nov-17,1,Weekend
+26-Nov-17,1,Weekend
+03-Dec-17,1,One day
+09-Dec-17,1,Weekend
+10-Dec-17,1,Weekend
+03-Feb-18,1,Weekend
+04-Feb-18,1,Weekend
+10-Feb-18,1,Weekend
+11-Feb-18,1,Weekend
+24-Feb-18,1,One day
+10-Mar-18,1,Weekend
+11-Mar-18,1,Weekend
+17-Mar-18,3,Weekend
+18-Mar-18,3,Weekend
+30-Mar-18,1,Weekend
+31-Mar-18,1,Weekend
+01-Apr-18,1,Weekend
+08-Apr-18,2,Late opening
+14-Apr-18,2,Weekend
+15-Apr-18,2,Weekend
+21-Apr-18,1,Weekend
+22-Apr-18,1,Weekend
+23-May-18,2,Early closure
+09-Jun-18,1,Weekend
+10-Jun-18,1,Weekend
+24-Jun-18,3,One day
+07-Jul-18,1,Weekend
+08-Jul-18,1,Weekend
+14-Jul-18,1,Weekend
+15-Jul-18,1,Weekend
+21-Jul-18,1,Weekend
+22-Jul-18,1,Weekend
+28-Jul-18,1,Weekend
+29-Jul-18,1,Weekend
+11-Aug-18,1,Weekend
+12-Aug-18,1,Weekend
+25-Aug-18,1,Weekend
+26-Aug-18,1,Weekend
+08-Sep-18,1,Weekend
+09-Sep-18,1,Weekend
+15-Sep-18,1,Weekend
+16-Sep-18,1,Weekend
+23-Sep-18,2,Late opening
+06-Oct-18,1,Weekend
+07-Oct-18,1,Weekend
+14-Oct-18,2,Late opening
+20-Oct-18,1,One day
+27-Oct-18,1,Weekend
+28-Oct-18,1,Weekend
+29-Oct-18,1,Early closure
+30-Oct-18,1,Early closure
+31-Oct-18,1,Early closure
+01-Nov-18,1,Early closure
+03-Nov-18,1,Weekend
+04-Nov-18,1,Weekend
+05-Nov-18,1,Early closure
+06-Nov-18,1,Early closure
+07-Nov-18,1,Early closure
+08-Nov-18,1,Early closure
+10-Nov-18,1,Weekend
+11-Nov-18,1,Weekend
+17-Nov-18,3,One day
+24-Nov-18,1,Weekend
+25-Nov-18,1,Weekend
+01-Dec-18,1,Weekend
+02-Dec-18,1,Weekend
+08-Dec-18,2,One day
+12-Jan-19,1,Weekend
+13-Jan-19,1,Weekend
+20-Jan-19,1,One day
+02-Feb-19,1,Weekend
+03-Feb-19,1,Weekend
+09-Feb-19,1,Weekend
+10-Feb-19,1,Weekend
+23-Feb-19,1,Weekend
+24-Feb-19,1,Weekend
+04-Mar-19,1,Early closure
+05-Mar-19,1,Early closure
+06-Mar-19,1,Early closure
+07-Mar-19,1,Early closure
+10-Mar-19,1,Early closure
+11-Mar-19,1,Early closure
+12-Mar-19,1,Early closure
+13-Mar-19,1,Early closure
+16-Mar-19,1,Weekend
+17-Mar-19,1,Weekend
+18-Mar-19,1,Early closure
+19-Mar-19,1,Early closure
+20-Mar-19,1,Early closure
+21-Mar-19,1,Early closure
+23-Mar-19,1,One day
+25-Mar-19,1,Early closure
+26-Mar-19,1,Early closure
+27-Mar-19,1,Early closure
+28-Mar-19,1,Early closure
+30-Mar-19,1,Weekend
+31-Mar-19,1,Weekend
+01-Apr-19,1,Early closure
+02-Apr-19,1,Early closure
+03-Apr-19,1,Early closure
+04-Apr-19,1,Early closure
+06-Apr-19,1,One day
+07-Apr-19,2,One day
+13-Apr-19,1,Weekend
+14-Apr-19,1,Weekend
+15-Apr-19,1,Early closure
+16-Apr-19,1,Early closure
+17-Apr-19,1,Early closure
+18-Apr-19,1,Early closure
+24-Apr-19,1,Early closure
+25-Apr-19,1,Early closure
+27-Apr-19,2,Weekend
+28-Apr-19,2,Weekend
+04-May-19,2,One day
+06-May-19,1,Early closure
+07-May-19,1,Early closure
+08-May-19,1,Early closure
+09-May-19,1,Early closure
+11-May-19,1,Weekend
+12-May-19,1,Weekend
+13-May-19,1,Early closure
+14-May-19,1,Early closure
+15-May-19,1,Early closure
+16-May-19,1,Early closure
+18-May-19,3,One day
+21-May-19,1,Early closure
+22-May-19,1,Early closure
+23-May-19,1,Early closure
+26-May-19,1,Late opening
+01-Jun-19,2,Late opening
+03-Jun-19,1,Early closure
+04-Jun-19,1,Early closure
+06-Jun-19,1,Early closure
+08-Jun-19,1,Weekend
+09-Jun-19,1,Weekend
+11-Jun-19,1,Early closure
+12-Jun-19,1,Early closure
+13-Jun-19,1,Early closure
+18-Jun-19,1,Early closure
+19-Jun-19,1,Early closure
+06-Jul-19,1,Weekend
+07-Jul-19,1,Weekend
+13-Jul-19,1,Weekend
+14-Jul-19,1,Weekend
+15-Jul-19,1,Early closure
+16-Jul-19,1,Early closure
+17-Jul-19,1,Early closure
+18-Jul-19,1,Early closure
+20-Jul-19,1,Weekend
+21-Jul-19,1,Weekend
+10-Aug-19,1,Weekend
+11-Aug-19,1,Weekend
+17-Aug-19,3,One day
+17-Aug-19,1,Weekend
+18-Aug-19,1,Weekend
+03-Sep-19,1,Early closure
+04-Sep-19,1,Early closure
+05-Sep-19,1,Early closure
+09-Sep-19,1,Early closure
+10-Sep-19,1,Early closure
+11-Sep-19,1,Early closure
+12-Sep-19,1,Early closure
+14-Sep-19,1,Weekend
+15-Sep-19,1,Weekend
+16-Sep-19,1,Early closure
+17-Sep-19,1,Early closure
+18-Sep-19,1,Early closure
+19-Sep-19,1,Early closure
+22-Sep-19,2,Late opening
+23-Sep-19,1,Early closure
+24-Sep-19,1,Early closure
+25-Sep-19,1,Early closure
+26-Sep-19,1,Early closure
+28-Sep-19,1,Weekend
+29-Sep-19,1,Weekend
+30-Sep-19,2,Early closure
+01-Oct-19,2,Early closure
+02-Oct-19,2,Early closure
+03-Oct-19,2,Early closure
+07-Oct-19,1,Early closure
+08-Oct-19,1,Early closure
+09-Oct-19,1,Early closure
+10-Oct-19,1,Early closure
+12-Oct-19,2,Weekend
+13-Oct-19,2,Weekend
+15-Oct-19,2,Early closure
+16-Oct-19,2,Early closure
+17-Oct-19,2,Early closure
+19-Oct-19,1,Weekend
+20-Oct-19,1,Weekend
+21-Oct-19,2,Early closure
+22-Oct-19,2,Early closure
+23-Oct-19,2,Early closure
+24-Oct-19,2,Early closure
+26-Oct-19,1,Weekend
+27-Oct-19,1,Weekend
+02-Nov-19,2,Weekend
+03-Nov-19,2,Weekend
+05-Nov-19,2,Early closure
+06-Nov-19,2,Early closure
+07-Nov-19,2,Early closure
+09-Nov-19,1,Weekend
+10-Nov-19,1,Weekend
+11-Nov-19,1,Early closure
+12-Nov-19,1,Early closure
+13-Nov-19,1,Early closure
+14-Nov-19,1,Early closure
+16-Nov-19,1,One day
+18-Nov-19,1,Early closure
+19-Nov-19,1,Early closure
+20-Nov-19,1,Early closure
+23-Nov-19,1,Weekend
+24-Nov-19,1,Weekend
+26-Nov-19,2,Early closure
+27-Nov-19,2,Early closure
+28-Nov-19,2,Early closure
+30-Nov-19,1,Weekend
+01-Dec-19,1,Weekend
+07-Dec-19,1,Weekend
+08-Dec-19,1,Weekend
+15-Dec-19,2,One day
+11-Jan-20,1,Weekend
+12-Jan-20,1,Weekend
+18-Jan-20,1,Weekend
+19-Jan-20,1,Weekend
+20-Jan-20,1,Early closure
+21-Jan-20,1,Early closure
+22-Jan-20,1,Early closure
+23-Jan-20,1,Early closure
+25-Jan-20,1,Weekend
+26-Jan-20,1,Weekend
+27-Jan-20,1,Early closure
+28-Jan-20,1,Early closure
+29-Jan-20,1,Early closure
+30-Jan-20,1,Early closure
+01-Feb-20,1,Weekend
+02-Feb-20,1,Weekend
+03-Feb-20,2,Early closure
+04-Feb-20,2,Early closure
+05-Feb-20,2,Early closure
+06-Feb-20,2,Early closure
+08-Feb-20,1,Weekend
+09-Feb-20,1,Weekend
+10-Feb-20,2,Early closure
+11-Feb-20,2,Early closure
+12-Feb-20,2,Early closure
+13-Feb-20,2,Early closure
+18-Feb-20,1,Early closure
+19-Feb-20,1,Early closure
+20-Feb-20,1,Early closure
+21-Feb-20,1,Weekend
+22-Feb-20,1,Weekend
+23-Feb-20,1,Weekend
+24-Feb-20,1,Early closure
+25-Feb-20,1,Early closure
+26-Feb-20,1,Early closure
+27-Feb-20,1,Early closure
+29-Feb-20,1,Weekend
+01-Mar-20,1,Weekend
+02-Mar-20,1,Early closure
+03-Mar-20,1,Early closure
+04-Mar-20,1,Early closure
+05-Mar-20,1,Early closure
+07-Mar-20,1,Weekend
+08-Mar-20,1,Weekend
+09-Mar-20,1,Early closure
+10-Mar-20,1,Early closure
+11-Mar-20,1,Early closure
+12-Mar-20,1,Early closure
+21-Mar-20,1,Weekend
+22-Mar-20,1,Weekend
+29-Mar-20,1,One day
+19-Apr-20,1,One day
+26-Apr-20,1,One day
+03-May-20,1,One day
+04-May-20,2,Early closure
+05-May-20,2,Early closure
+06-May-20,2,Early closure
+07-May-20,2,Early closure
+10-May-20,1,One day
+11-May-20,1,Early closure
+12-May-20,1,Early closure
+13-May-20,1,Early closure
+14-May-20,1,Early closure
+16-May-20,1,One day
+19-May-20,1,Early closure
+20-May-20,1,Early closure
+21-May-20,1,Early closure
+23-May-20,1,Weekend
+24-May-20,1,Weekend
+25-May-20,1,Early closure
+26-May-20,1,Early closure
+27-May-20,1,Early closure
+28-May-20,1,Early closure
+30-May-20,1,Weekend
+31-May-20,1,Weekend
+01-Jun-20,1,Early closure
+02-Jun-20,1,Early closure
+03-Jun-20,1,Early closure
+04-Jun-20,1,Early closure
+06-Jun-20,1,Weekend
+07-Jun-20,1,Weekend
+07-Jun-20,3,One day
+08-Jun-20,1,Early closure
+09-Jun-20,1,Early closure
+10-Jun-20,1,Early closure
+11-Jun-20,1,Early closure
+13-Jun-20,1,Weekend
+14-Jun-20,1,Weekend
+15-Jun-20,1,Early closure
+16-Jun-20,1,Early closure
+17-Jun-20,1,Early closure
+18-Jun-20,1,Early closure
+20-Jun-20,1,Weekend
+21-Jun-20,1,Weekend
+25-Jun-20,1,Other
+26-Jun-20,1,Other
+27-Jun-20,1,Weekend
+28-Jun-20,1,Weekend
+06-Jul-20,2,Early closure
+07-Jul-20,2,Early closure
+08-Jul-20,2,Early closure
+09-Jul-20,2,Early closure
+11-Jul-20,2,Weekend
+12-Jul-20,2,Weekend
+13-Jul-20,2,Early closure
+14-Jul-20,2,Early closure
+15-Jul-20,2,Early closure
+16-Jul-20,2,Early closure
+18-Jul-20,1,Weekend
+19-Jul-20,1,Weekend
+20-Jul-20,2,Early closure
+21-Jul-20,2,Early closure
+22-Jul-20,2,Early closure
+23-Jul-20,2,Early closure
+24-Jul-20,2,Late opening
+01-Aug-20,2,Weekend
+02-Aug-20,2,Weekend
+04-Aug-20,2,Early closure
+05-Aug-20,2,Early closure
+06-Aug-20,2,Early closure
+13-Aug-20,1,Early closure
+15-Aug-20,2,Late opening
+22-Aug-20,1,Weekend
+23-Aug-20,1,Weekend
+30-Aug-20,1,One day
+31-Aug-20,1,Early closure
+01-Sep-20,1,Early closure
+02-Sep-20,1,Early closure
+03-Sep-20,1,Early closure
+08-Sep-20,1,Early closure
+09-Sep-20,1,Early closure
+10-Sep-20,1,Early closure
+12-Sep-20,3,Weekend
+13-Sep-20,3,Weekend
+19-Sep-20,1,One day
+20-Sep-20,2,One day
+21-Sep-20,1,Early closure
+22-Sep-20,1,Early closure
+23-Sep-20,1,Early closure
+24-Sep-20,1,Early closure
+26-Sep-20,1,Weekend
+27-Sep-20,1,Weekend
+03-Oct-20,2,Weekend
+04-Oct-20,2,Weekend
+05-Oct-20,1,Early closure
+06-Oct-20,1,Early closure
+07-Oct-20,1,Early closure
+08-Oct-20,1,Early closure
+11-Oct-20,2,One day
+13-Oct-20,1,Early closure
+14-Oct-20,1,Early closure
+15-Oct-20,1,Early closure
+17-Oct-20,1,Weekend
+18-Oct-20,1,Weekend
+19-Oct-20,1,Early closure
+20-Oct-20,1,Early closure
+21-Oct-20,1,Early closure
+22-Oct-20,1,Early closure
+23-Oct-20,1,Weekend
+24-Oct-20,1,Weekend
+25-Oct-20,1,Weekend
+25-Oct-20,2,One day
+26-Oct-20,1,Early closure
+27-Oct-20,1,Early closure
+28-Oct-20,1,Early closure
+29-Oct-20,1,Early closure
+01-Nov-20,1,One day
+02-Nov-20,1,Early closure
+03-Nov-20,1,Early closure
+04-Nov-20,1,Early closure
+05-Nov-20,1,Early closure
+07-Nov-20,1,Weekend
+08-Nov-20,1,Weekend
+09-Nov-20,1,Early closure
+10-Nov-20,1,Early closure
+11-Nov-20,1,Early closure
+12-Nov-20,1,Early closure
+13-Nov-20,1,Early closure
+14-Nov-20,1,Weekend
+15-Nov-20,1,Weekend
+16-Nov-20,1,Early closure
+17-Nov-20,1,Early closure
+18-Nov-20,1,Early closure
+19-Nov-20,1,Early closure
+20-Nov-20,1,Early closure
+21-Nov-20,1,Weekend
+22-Nov-20,1,Weekend
+23-Nov-20,1,Early closure
+24-Nov-20,1,Early closure
+25-Nov-20,1,Early closure
+26-Nov-20,1,Early closure
+28-Nov-20,1,Weekend
+29-Nov-20,1,Weekend
+04-Dec-20,1,Other
+05-Dec-20,1,Other
+06-Dec-20,1,Other
+07-Dec-20,1,Other
+08-Dec-20,1,Other
+09-Dec-20,1,Other
+10-Dec-20,1,Other
+11-Dec-20,1,Other
+12-Dec-20,1,Other
+13-Dec-20,1,Other
+14-Dec-20,2,Early closure
+15-Dec-20,2,Early closure
+16-Dec-20,2,Early closure
+17-Dec-20,2,Early closure
+19-Dec-20,1,One day
+11-Jan-21,1,Early closure
+12-Jan-21,1,Early closure
+13-Jan-21,1,Early closure
+14-Jan-21,1,Early closure
+18-Jan-21,1,Early closure
+19-Jan-21,1,Early closure
+20-Jan-21,1,Early closure
+21-Jan-21,1,Early closure
+23-Jan-21,1,Weekend
+24-Jan-21,1,Weekend
+25-Jan-21,1,Early closure
+26-Jan-21,1,Early closure
+27-Jan-21,1,Early closure
+28-Jan-21,1,Early closure
+31-Jan-21,1,One day
+01-Feb-21,2,Early closure
+02-Feb-21,2,Early closure
+03-Feb-21,2,Early closure
+04-Feb-21,2,Early closure
+06-Feb-21,1,Weekend
+07-Feb-21,1,Weekend
+08-Feb-21,1,Early closure
+09-Feb-21,1,Early closure
+10-Feb-21,1,Early closure
+11-Feb-21,1,Early closure
+14-Feb-21,2,Late opening
+16-Feb-21,1,Early closure
+17-Feb-21,1,Early closure
+18-Feb-21,1,Early closure
+22-Feb-21,1,Early closure
+23-Feb-21,1,Early closure
+24-Feb-21,1,Early closure
+25-Feb-21,1,Early closure
+27-Feb-21,1,Weekend
+28-Feb-21,1,Weekend
+01-Mar-21,1,Early closure
+02-Mar-21,1,Early closure
+03-Mar-21,1,Early closure
+04-Mar-21,1,Early closure
+05-Mar-21,1,Early closure
+06-Mar-21,1,Weekend
+07-May-21,1,Weekend
+08-Mar-21,1,Early closure
+09-Mar-21,1,Early closure
+10-Mar-21,1,Early closure
+11-Mar-21,1,Early closure
+13-Mar-21,1,Weekend
+14-Mar-21,1,Weekend
+15-Mar-21,1,Other
+16-Mar-21,1,Other
+17-Mar-21,1,Other
+18-Mar-21,1,Other
+19-Mar-21,1,Other
+20-Mar-21,1,Other
+21-Mar-21,1,Other
+22-Mar-21,1,Other
+23-Mar-21,1,Other
+24-Mar-21,1,Other
+29-Mar-21,1,Early closure
+30-Mar-21,1,Early closure
+31-Mar-21,1,Early closure
+01-Apr-21,1,Early closure
+05-Apr-21,1,Early closure
+06-Apr-21,1,Early closure
+07-Apr-21,1,Early closure
+08-Apr-21,1,Early closure
+10-Apr-21,1,Weekend
+11-Apr-21,1,Weekend
+12-Apr-21,1,Other
+13-Apr-21,1,Other
+14-Apr-21,1,Other
+15-Apr-21,1,Other
+16-Apr-21,1,Other
+17-Apr-21,1,Other
+18-Apr-21,1,Other
+19-Apr-21,1,Other
+19-Apr-21,1,Early closure
+20-Apr-21,1,Other
+20-Apr-21,1,Early closure
+21-Apr-21,1,Other
+21-Apr-21,1,Early closure
+22-Apr-21,1,Early closure
+24-Apr-21,1,Weekend
+25-Apr-21,1,Weekend
+25-Apr-21,2,One day
+26-Apr-21,1,Other
+27-Apr-21,1,Other
+28-Apr-21,1,Other
+29-Apr-21,1,Other
+30-Apr-21,1,Other
+01-May-21,1,Other
+02-May-21,1,Other
+03-May-21,1,Other
+04-May-21,1,Other
+05-May-21,1,Other
+06-May-21,1,Other
+08-May-21,1,Weekend
+09-May-21,1,Weekend
+09-May-21,2,One day
+10-May-21,1,Early closure
+11-May-21,1,Early closure
+12-May-21,1,Early closure
+13-May-21,1,Early closure
+15-May-21,1,Weekend
+16-May-21,1,Weekend
+16-May-21,2,One day
+26-May-21,1,Early closure
+27-May-21,1,Early closure
+28-May-21,1,Early closure
+29-May-21,1,Weekend
+30-May-21,1,Weekend
+31-May-21,1,Early closure
+01-Jun-21,1,Early closure
+02-Jun-21,1,Early closure
+03-Jun-21,1,Early closure
+06-Jun-21,2,One day
+07-Jun-21,1,Early closure
+08-Jun-21,1,Early closure
+09-Jun-21,1,Early closure
+10-Jun-21,1,Early closure
+12-Jun-21,1,Weekend
+13-Jun-21,1,Weekend
+14-Jun-21,2,Early closure
+15-Jun-21,2,Early closure
+16-Jun-21,2,Early closure
+17-Jun-21,2,Early closure
+18-Jun-21,1,Early closure
+19-Jun-21,1,Weekend
+20-Jun-21,1,Weekend
+20-Jun-21,2,Late opening
+21-Jun-21,1,Early closure
+22-Jun-21,1,Early closure
+23-Jun-21,1,Early closure
+24-Jun-21,1,Early closure
+25-Jun-21,2,Early closure
+26-Jun-21,2,Weekend
+27-Jun-21,2,Weekend
+28-Jun-21,1,Early closure
+29-Jun-21,1,Early closure
+30-Jun-21,1,Early closure
