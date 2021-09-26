@@ -1,1 +1,2 @@
-
+# Delays
+This folder contains three csv files: bus_delays.csv, streetcar_delays.csv, and subway_delays.csv. Aggregated from Toronto's [Open Data Portal](https://open.toronto.ca/), these three files contain all our information on the TTC [bus](https://open.toronto.ca/dataset/ttc-bus-delay-data/), [streetcar](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/), and [subway](https://open.toronto.ca/dataset/ttc-subway-delay-data/) delays in our time frame. 
